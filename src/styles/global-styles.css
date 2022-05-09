@@ -1,0 +1,25 @@
+html, body, #__next{
+  height: 100%;
+  width: 100%;
+  font-family: 'Calibri', sans-serif;
+}
+/* Color Theme Swatches in Hex */
+.A-Cyber-World-1-hex { color: #1B1E59; }
+.A-Cyber-World-2-hex { color: #0433BF; }
+.A-Cyber-World-3-hex { color: #0455BF; }
+.A-Cyber-World-4-hex { color: #049DD9; }
+.A-Cyber-World-5-hex { color: #18D9A2; }
+
+/* Color Theme Swatches in RGBA */
+.A-Cyber-World-1-rgba { color: rgba(26, 29, 89, 1); }
+.A-Cyber-World-2-rgba { color: rgba(3, 50, 191, 1); }
+.A-Cyber-World-3-rgba { color: rgba(3, 85, 191, 1); }
+.A-Cyber-World-4-rgba { color: rgba(4, 156, 216, 1); }
+.A-Cyber-World-5-rgba { color: rgba(23, 216, 162, 1); }
+
+/* Color Theme Swatches in HSLA */
+.A-Cyber-World-1-hsla { color: hsla(236, 53, 22, 1); }
+.A-Cyber-World-2-hsla { color: hsla(225, 96, 38, 1); }
+.A-Cyber-World-3-hsla { color: hsla(213, 96, 38, 1); }
+.A-Cyber-World-4-hsla { color: hsla(196, 96, 43, 1); }
+.A-Cyber-World-5-hsla { color: hsla(163, 80, 47, 1); }
